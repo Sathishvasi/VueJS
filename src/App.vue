@@ -16,7 +16,7 @@ import Users from './components/Users'
 export default {
   name: 'App',
   components:{
-    Test, Users
+    Users,Test
   },
   data() {
     return {
